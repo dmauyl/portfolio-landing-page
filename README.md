@@ -1,4 +1,8 @@
-# Personal profile pager
+#Author
+
+Michael Odongo
+
+# Project Name: Personal portfolio-landing-page
 
 This is my first personal profile page.
 
@@ -8,5 +12,12 @@ https://dmauyl.github.io/portfolio-landing-page/index.html
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Copyright © 2019, Michael Odongo. This project is licensed under the MIT License - 
+
+ 
+
+
+
+
+
 
