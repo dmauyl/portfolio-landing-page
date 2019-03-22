@@ -1,6 +1,6 @@
 # Personal profile pager
 
-This is a personal profile page
+This is my first personal profile page.
 
 
 ## License
