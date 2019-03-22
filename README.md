@@ -2,7 +2,7 @@
 
 Michael Odongo
 
-# Project Name: Personal portfolio-landing-page
+# Project Name: My First Personal portfolio-landing-page
 
 This is my first personal profile page.
 
