@@ -5,6 +5,8 @@ html, body {
     height: 100%;
     margin: 0px;
     padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+
   }
   
   .wrapper {
@@ -34,4 +36,8 @@ html, body {
   
   .profile-picture {
     border-radius: 50%;
+  }
+  .name {
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 2px;
   }
